@@ -32,7 +32,7 @@ public class DownToEarth {
         	for(Object i1 : row) {
         		String item = String.valueOf(i1);
         		if (item.contains(country1))
-        			if (item.equals(country1)) // match to exact country (India != British Indian Ocean Territory)
+        			if (item.equals(country1)) // match to exact country (Netherlands != Netherlands Antilles)
         				buff1 = row;
         	}  
         	
