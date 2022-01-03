@@ -53,7 +53,7 @@ public class DownToEarth {
 		lat2 = Double.parseDouble(buff2.get(1)) * Math.PI/180;;
 		long2 = Double.parseDouble(buff2.get(2)) * Math.PI/180;
 		
-		haversine(lat1, lat2, long1, long2);
+		haversine(lat1, lat2, long1, long2); // call method
 		
 		
         
