@@ -65,7 +65,7 @@ public class DownToEarth {
 		
 		BufferedReader reader = null;
 		String line = "";
-		String file = "C:\\Users\\zayaa\\Documents\\countries.csv";
+		String file = "countries.csv";
 		List<List<String>> countries  = new ArrayList<>();
 		
 		// reading the csv file into an array
