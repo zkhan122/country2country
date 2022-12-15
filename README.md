@@ -1,4 +1,4 @@
-# city2city
+# country2country
 A program to find the distance between 2 countries in the world using the Haversine formula
 
 To run on local machine:
